@@ -1,5 +1,5 @@
 # Quantum X and H Gate Project
--This project explores different combinations of X and H quantum gates on a single qubit using Qiskit.
+This project explores different combinations of X and H quantum gates on a single qubit using Qiskit.
 - Tools: Qiskit, Python, Matplotlib
 - Description: The code tests sequences like H, X, H-X, X-H, and H-H to see their effects on a qubit.
 
